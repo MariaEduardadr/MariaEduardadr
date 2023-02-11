@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+    <a href="https://github.com/MariaEduardadr/MariaEduardadr/edit/main/README.md"></a>
+    <img height="180em" src="htpps://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=dracula&inclube_all_commits=true&count_private=tr"/>
+    <img height="180em" src="htpps://github-readme-stats.vercel.app/api/top-langs?username=MariaEduardadr&layout=compact&langs_count=16&theme=dracula"/>
+</div>
