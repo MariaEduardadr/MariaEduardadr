@@ -1,7 +1,6 @@
-### Hi there !! Eu sou a Maria  Eduarda 
-<!--
+### Olá!! Eu sou a Maria Eduarda
 
-**MariaEduardadr/MariaEduardadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardadr&hide_progress=true)](https://github.com/MariaEduardadr/github-readme-stats)
