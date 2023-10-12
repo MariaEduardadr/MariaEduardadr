@@ -18,3 +18,5 @@ Desenvolvedora de Software 🖥️
 Apaixonada por tecnologia ❤️
 Em Busca de expandir meus conhecimentos na área de Tecnologia da informação, e aprender linguagens de programação.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=dracula)
+
