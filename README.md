@@ -1,24 +1,22 @@
 ### Olá!! Eu sou a Maria Eduarda = )
   <a href = "mariaeduarda.reis0414@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/maria-eduarda-dos-reis-2a73a1238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<ul>
+  <li>🖥️ Desenvolvedora Back-end.</li>
+  <li>🎓 Estudante na puc minas</li>
+</ul>
 
 
 ## Tecnologias que mais utilizo 🚀
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Duda-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Duda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Duda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-<br>
-
-Desenvolvedora Full Stack 🖥️
+<p> <strong>(JavaScript | TypeScript | HTML | CSS | C# | MySQL | SQL Sever)</strong></p>
 
 
-Apaixonada por Front-end e Back-end.
+
+<p>💡Desenvolvedora apaixonada por tecnologia e inovação em desenvolvimento back-end, <br>
+também possuo habilidades no front-end.</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/??username=MariaEduardadr&show_icons=true&theme=dracula)
 
