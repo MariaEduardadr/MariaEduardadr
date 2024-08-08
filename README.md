@@ -9,7 +9,8 @@
 
 ## Tecnologias que mais utilizo 🚀
 
-<p> <strong>(JavaScript | TypeScript | HTML | CSS | C# | MySQL | SQL Sever)</strong></p>
+<p> <strong>(JavaScript | TypeScript | HTML | CSS | C# | MySQL | 
+MongoDB)</strong></p>
 
 
 
