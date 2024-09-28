@@ -2,7 +2,7 @@
   <a href = "mariaeduarda.reis0414@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/maria-eduarda-dos-reis-2a73a1238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <ul>
-  <li>🖥️ Desenvolvedora Back-end.</li>
+
   <li>🎓 Estudante na puc minas</li>
 </ul>
 
@@ -14,8 +14,7 @@ MongoDB)</strong></p>
 
 
 
-<p>💡Desenvolvedora apaixonada por tecnologia e inovação em desenvolvimento back-end, <br>
-também possuo habilidades no front-end.</p>
+<p>💡Desenvolvedora apaixonada por tecnologia e inovação.</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=dracula)
