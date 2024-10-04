@@ -18,5 +18,7 @@ MongoDB)</strong></p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardadr&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/??username=MariaEduardadr&show&hide=html,css,_icons=true&theme=dracula)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/??username=MariaEduardadr&show&hide=html,css,_icons=true&theme=dracula) --> 
 
