@@ -1,15 +1,14 @@
 ### Olá!! Eu sou a Maria Eduarda = )
-  <a href = "mariaeduarda.reis0414@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/maria-eduarda-dos-reis-2a73a1238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<ul>
 
-  <li>🎓 Estudante na puc minas</li>
-</ul>
-
+<p>📍Desde de 2021, explorando a área de TI! <br>
+Sou Full Stack, tenho experiência em desenvolvimento de aplicações tanto no lado do servidor (backend) quanto no lado do cliente (frontend).<br>
+Depois de ultilizar várias linguagens, C# se tornou minha linguagem favorita! <br> Em (2023-2024) fui aluna da PUC MINAS cursando o curso ADS <br>
+Gosto de programação pois me permite ter ideais criativas, desenvolver habilidades lógicas e resolver problemas.
+</p>
 
 ## Tecnologias que mais utilizo 🚀
 
-<p> <strong>(JavaScript | TypeScript | React| HTML | CSS | C# | MySQL | 
+<p> <strong>(JavaScript | TypeScript | React | HTML | CSS | C# | MySQL | 
 MongoDB)</strong></p>
 
 
@@ -21,4 +20,7 @@ MongoDB)</strong></p>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/??username=MariaEduardadr&show&hide=html,css,_icons=true&theme=dracula) --> 
+
+<a href = "mariaeduarda.reis0414@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/maria-eduarda-dos-reis-2a73a1238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
