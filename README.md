@@ -1,8 +1,7 @@
 ### Olá!! Eu sou a Maria Eduarda = )
 
 <p>📍Desde de 2021, explorando a área de TI! <br>
-Sou Full Stack, tenho experiência em desenvolvimento de aplicações tanto no lado do servidor (backend) quanto no lado do cliente (frontend).<br>
-Em (2023-2024) fui aluna da PUC MINAS cursando o curso ADS. <br>
+🎓 Graduando Análise e Desenvolvimento de Sistemas na Puc Minas <br>
 Gosto de programação pois me permite ter ideais criativas, desenvolver habilidades lógicas e resolver problemas.
 </p>
 
